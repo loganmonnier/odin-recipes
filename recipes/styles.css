@@ -1,0 +1,19 @@
+* {
+    background-color: black;
+}
+
+.maintext,li {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: beige;
+}
+
+h1,h2,h3 {
+    font-weight: bold;
+    color: crimson;
+}
+
+strong {
+    color: crimson;
+    font-weight: bold ;
+}
