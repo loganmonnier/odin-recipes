@@ -2,3 +2,21 @@
     background-color: black;
     color: beige;
 }
+
+h1 {
+    padding: 12px;
+    margin: auto;
+    border: inset;
+    border-color: beige;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    display: block;
+    margin: 12px;
+    border: 2px;
+    border-color: gold;
+    border-style: ridge;
+    padding: 12px;
+}
